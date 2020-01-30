@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "256417892227",
+    "firebase_url": "https://inventory-management-b0074.firebaseio.com",
+    "project_id": "inventory-management-b0074",
+    "storage_bucket": "inventory-management-b0074.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256417892227:android:1c371cbb8c17389f7218b6",
+        "android_client_info": {
+          "package_name": "zen.airport.inventorymanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256417892227-cnfse60n1ukd1gfqdgfgjj6khflh3ucf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "zen.airport.inventorymanagement",
+            "certificate_hash": "9c2f39e02b093a1bfdafe62167d5aa1f94bb065f"
+          }
+        },
+        {
+          "client_id": "256417892227-5u5uisu6olubqpv1mji3jcn0eetlfomc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz6TLUnnrHx6H5gd3_kLHln8xaGXVHMBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256417892227-5u5uisu6olubqpv1mji3jcn0eetlfomc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
